@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anand Patel
+- 👀 I’m interested in solving problems.
+- 🌱 I’m currently learning Big Data, web development, data structures and algorithms.
+- 💞️ I’m looking to collaborate on building cool projects and have an impact.
+- 📫 How to reach me : https://www.linkedin.com/in/anand-patel-45a072183/
